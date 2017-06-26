@@ -8,7 +8,7 @@ Builds data routes given a dataRouteString, a sample dataObject, a dataService a
 var convert = require("falcor-routes-from-object");
 var dataRoute = "my.toys[{keys:name}]"
 var dataObject = {
-  name:"steve",
+  name:"teddy_bear",
   height:1,
   weight:2,
   specifications:[
