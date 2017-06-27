@@ -1,6 +1,6 @@
 {
   "name": "falcor-routes-from-object",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/stierma1/falcor-routes-from-object#readme",
   "dependencies": {
-    "falcor-data-route-builder": "^1.0.0",
+    "falcor-data-route-builder": "^1.0.1",
     "falcor-router-path-generator": "^1.0.3"
   },
   "devDependencies": {
